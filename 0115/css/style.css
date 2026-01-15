@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(170, 215, 255);
+    height: 100vh;
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+header li{
+    margin:0 px ;
+}
+main{
+    background-color: rgb(255, 199, 250);
+    height: 100vh;
+}
+footer{
+    background-color: rgb(195, 255, 235);
+    height: 100vh;
+}
